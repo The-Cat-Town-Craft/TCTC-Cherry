@@ -87,7 +87,7 @@ To modify the color of redstone wire, you need to choose one of the following mo
 Emissive textures require you to choose one of the following mods
 
 - [OptiFine](https://www.optifine.net/downloads) (1.14.4-1.20.1)
-- [Continuity](https://modrinth.com/mod/continuity) (1.14.4-1.19.2)
+- [Continuity](https://modrinth.com/mod/continuity) (1.14.4-1.20.2)
 
 ### Known issues / 已知问题
 
@@ -121,6 +121,7 @@ XeKr redstone display1.17-V1: [Link](https://legacy.curseforge.com/minecraft/tex
 ## LICENSES / 许可协议
 
 简体中文：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
 English: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 ## Credits / 致谢
