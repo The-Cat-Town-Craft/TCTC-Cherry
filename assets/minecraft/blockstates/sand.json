@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/falling_sand"
+      },
+      {
+        "model": "minecraft:block/falling_sand_90",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/falling_sand_180",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/falling_sand_270",
+        "y": 270
+      }
+    ]
+  }
+}

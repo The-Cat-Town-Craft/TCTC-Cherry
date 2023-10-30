@@ -1,0 +1,101 @@
+{
+  "variants": {
+    "inverted=false,power=0": {
+      "model": "minecraft:block/daylight_detector_0"
+    },
+	 "inverted=false,power=1": {
+      "model": "minecraft:block/daylight_detector_1"
+    },
+	 "inverted=false,power=2": {
+      "model": "minecraft:block/daylight_detector_2"
+    },
+	 "inverted=false,power=3": {
+      "model": "minecraft:block/daylight_detector_3"
+    },
+	 "inverted=false,power=4": {
+      "model": "minecraft:block/daylight_detector_4"
+    },
+	 "inverted=false,power=5": {
+      "model": "minecraft:block/daylight_detector_5"
+    },
+	 "inverted=false,power=6": {
+      "model": "minecraft:block/daylight_detector_6"
+    },
+	 "inverted=false,power=7": {
+      "model": "minecraft:block/daylight_detector_7"
+    },
+	 "inverted=false,power=8": {
+      "model": "minecraft:block/daylight_detector_8"
+    },
+	 "inverted=false,power=9": {
+      "model": "minecraft:block/daylight_detector_9"
+    },
+	 "inverted=false,power=10": {
+      "model": "minecraft:block/daylight_detector_10"
+    },
+	 "inverted=false,power=11": {
+      "model": "minecraft:block/daylight_detector_11"
+    },
+	 "inverted=false,power=12": {
+      "model": "minecraft:block/daylight_detector_12"
+    },
+	 "inverted=false,power=13": {
+      "model": "minecraft:block/daylight_detector_13"
+    },
+	 "inverted=false,power=14": {
+      "model": "minecraft:block/daylight_detector_14"
+    },
+	 "inverted=false,power=15": {
+      "model": "minecraft:block/daylight_detector_15"
+    },
+	 "inverted=true,power=0": {
+      "model": "minecraft:block/daylight_detector_inverted_0"
+    },
+	 "inverted=true,power=1": {
+      "model": "minecraft:block/daylight_detector_inverted_1"
+    },
+	 "inverted=true,power=2": {
+      "model": "minecraft:block/daylight_detector_inverted_2"
+    },
+	 "inverted=true,power=3": {
+      "model": "minecraft:block/daylight_detector_inverted_3"
+    },
+	 "inverted=true,power=4": {
+      "model": "minecraft:block/daylight_detector_inverted_4"
+    },
+	 "inverted=true,power=5": {
+      "model": "minecraft:block/daylight_detector_inverted_5"
+    },
+	 "inverted=true,power=6": {
+      "model": "minecraft:block/daylight_detector_inverted_6"
+    },
+	 "inverted=true,power=7": {
+      "model": "minecraft:block/daylight_detector_inverted_7"
+    },
+	 "inverted=true,power=8": {
+      "model": "minecraft:block/daylight_detector_inverted_8"
+    },
+	 "inverted=true,power=9": {
+      "model": "minecraft:block/daylight_detector_inverted_9"
+    },
+	 "inverted=true,power=10": {
+      "model": "minecraft:block/daylight_detector_inverted_10"
+    },
+	 "inverted=true,power=11": {
+      "model": "minecraft:block/daylight_detector_inverted_11"
+    },
+	 "inverted=true,power=12": {
+      "model": "minecraft:block/daylight_detector_inverted_12"
+    },
+	 "inverted=true,power=13": {
+      "model": "minecraft:block/daylight_detector_inverted_13"
+    },
+	 "inverted=true,power=14": {
+      "model": "minecraft:block/daylight_detector_inverted_14"
+    },
+	 "inverted=true,power=15": {
+      "model": "minecraft:block/daylight_detector_inverted_15"
+    }
+    
+  }
+}
