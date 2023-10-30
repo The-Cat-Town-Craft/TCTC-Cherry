@@ -74,6 +74,7 @@ English
 ## Mod Requirement / 模组需求
 
 修改红石粉颜色需要自行选择以下模组之一
+
 To modify the color of redstone wire, you need to choose one of the following mods
 
 - [OptiFine](https://www.optifine.net/downloads) (1.14.4-1.20.1)
@@ -82,6 +83,7 @@ To modify the color of redstone wire, you need to choose one of the following mo
 - CherryWire (1.14.4-1.20.2)(仅粉色/only pink redstone wire)
 
 发光纹理需要自行选择以下模组之一
+
 Emissive textures require you to choose one of the following mods
 
 - [OptiFine](https://www.optifine.net/downloads) (1.14.4-1.20.1)
@@ -90,6 +92,7 @@ Emissive textures require you to choose one of the following mods
 ### Known issues / 已知问题
 
 在 Minecraft 1.20+ 版本中使用 0.5.0+ 版本的 Sodium 和 Continuity一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)
+
 Using version 0.5.0+ of Sodium and Continuity in Minecraft versions 1.20+ together will cause [Emissive textures Z-fighting](https://github.com/PepperCode1/Continuity/issues/292).
 
 ## Author Information / 作者信息
@@ -97,15 +100,22 @@ Using version 0.5.0+ of Sodium and Continuity in Minecraft versions 1.20+ togeth
 简体中文
 
 原作者：XeKr
+
 附加作者：Surisen
+
 Xekr 材质 MCBBS 发布页：[链接](https://www.mcbbs.net/thread-823957-1-1.html)
+
 XeKr 原版红石显示1.17-V1：[链接](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
+
 
 English
 
 Original Author: XeKr
+
 Addon author: Surisen
+
 Xekr RP MCBBS Release Page: [Link](https://www.mcbbs.net/thread-823957-1-1.html)
+
 XeKr redstone display1.17-V1: [Link](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
 
 ## LICENSES / 许可协议
@@ -121,7 +131,7 @@ English: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/dee
     Hendrix_Shen: 模组支持
     Capt Tastu：感谢他的创意授权
     药水棒冰：感谢他的创意授权
-    Nan2uu 材质创作指导
+    Nan2uu：材质创作指导
 
 English
 
@@ -129,7 +139,7 @@ English
     Hendrix_Shen: mod support
     Capt Tastu: Thanks for his generous authorization
     YSBB: Thanks for his generous authorization
-    Nan2uu creation guidance
+    Nan2uu: creation guidance
 
 ## Changelogs / 更新日志
 
