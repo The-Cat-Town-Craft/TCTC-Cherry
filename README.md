@@ -47,6 +47,7 @@ English
 - 阳光探测器新外观
 - 漏斗指向纹理简化
 - 漏斗、投掷器、发射器锁定显示，需要[XeKr原版红石显示1.17-V2附加包](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282)
+- 烟花火箭区分，需要支持cit的模组
 - 黑曜石系列方块新外观
 - 猫爪压力板、轻重质压力板能量等级显示
 - 猫爪红石灯
@@ -64,6 +65,7 @@ English
 - Daylight detectors new look
 - Hopper pointing texture simplified
 - Locked display of hoppers, droppers, and dispensers. Need [XeKr redstone display 1.17-V2 addition](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282)
+- Firework Rocket Differentiation. Requires a mod that supports CIT
 - Obsidian series of blocks new look
 - Cat claw pressure plate, light and heavy pressure plate power level display
 - Cat claw redstone lamp
@@ -77,17 +79,17 @@ English
 
 To modify the color of redstone wire, you need to choose one of the following mods
 
-- [OptiFine](https://www.optifine.net/downloads) (1.14.4-1.20.1)
-- [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) (1.14.4-1.19.2)
-- [Vanadium](https://modrinth.com/mod/vanadium) (1.20.1-1.20.2)
-- CherryWire (1.14.4-1.20.2)(仅粉色/only pink redstone wire)
+- [OptiFine](https://www.optifine.net/downloads)
+- [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)
+- [Vanadium](https://modrinth.com/mod/vanadium)
+- [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire)
 
 发光纹理需要自行选择以下模组之一
 
 Emissive textures require you to choose one of the following mods
 
-- [OptiFine](https://www.optifine.net/downloads) (1.14.4-1.20.1)
-- [Continuity](https://modrinth.com/mod/continuity) (1.14.4-1.20.2)
+- [OptiFine](https://www.optifine.net/downloads)
+- [Continuity](https://modrinth.com/mod/continuity)
 
 ### Known issues / 已知问题
 
