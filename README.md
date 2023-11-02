@@ -51,7 +51,7 @@ English
 - 黑曜石系列方块新外观
 - 猫爪压力板、轻重质压力板能量等级显示
 - 猫爪红石灯
-- 兼容[彩虹像素](https://afdian.net/a/Nan2uu)，感谢南烛提供的材质制作指导（使用时请放在XeKr原版红显1.17-V1上方，其次为彩虹像素v3.2.3+，接着是樱喵附加，最后是XeKr原版红石显示1.17-V2附加包）
+- 兼容[彩虹像素](https://afdian.net/a/Nan2uu)，感谢南烛提供的材质制作指导（使用时请按下列顺序加载：XeKr原版红显1.17-V1置于最底层，其次为彩虹像素v3.2.3+，接着是樱喵附加，最后是XeKr原版红石显示1.17-V2附加包）
 - 井字草模型，创意来源于 [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - 落沙显示，创意来源于[梧桐加减法](https://afdian.net/a/YSBBBB)，感谢药水棒冰授权兼材质制作指导
 
@@ -93,7 +93,7 @@ Emissive textures require you to choose one of the following mods
 
 ### Known issues / 已知问题
 
-在 Minecraft 1.20+ 版本中使用 0.5.0+ 版本的 Sodium 和 Continuity一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)
+在 Minecraft 1.20+ 版本中使用 0.5.0+ 版本的 Sodium 和 Continuity 一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)
 
 Using version 0.5.0+ of Sodium and Continuity in Minecraft versions 1.20+ together will cause [Emissive textures Z-fighting](https://github.com/PepperCode1/Continuity/issues/292).
 
