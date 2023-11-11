@@ -3,7 +3,7 @@
 
 <p align = "center">基于 XeKr 原版红石显示1.17-V1附加</p>
 
-<div align="center"><img src="pack.png" width="256" height="256" /></div>
+<div align="center"><img src="Featured_img.png" width="256" height="256" /></div>
 
 ## Introduction / 介绍
 
