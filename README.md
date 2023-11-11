@@ -3,7 +3,7 @@
 
 <p align = "center">基于 XeKr 原版红石显示1.17-V1附加</p>
 
-<div align="center"><img src="Featured_img.png" width="256" height="256" /></div>
+<div align="center"><img src="Featured_img.png" /></div>
 
 ## Introduction / 介绍
 
@@ -136,7 +136,7 @@ English: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/dee
     Hendrix_Shen: 模组支持
     Capt Tastu：感谢他的创意授权
     药水棒冰：感谢他的创意授权
-    Nan2uu：材质创作指导
+    南烛：材质创作指导
 
 English
 
