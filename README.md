@@ -11,17 +11,17 @@
 
 本纹理包作为 [ XeKr 原版红石显示1.17-V1 ](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524) 的附加包使用
 
-目前支持的红显内容：1.14.4-1.19.2
+目前支持的红显内容：1.16.5-1.19.2
 
-目前兼容的游戏版本：1.14.4-1.20.2
+目前兼容的游戏版本：1.16.5-1.20.2
 
 English
 
 This texture pack is used as an add-on pack for [XeKr Redstone Display 1.17-V1](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
 
-Currently supported redstone display content: 1.14.4-1.19.2
+Currently supported redstone display content: 1.16.5-1.19.2
 
-Currently compatible game versions: 1.14.4-1.20.2
+Currently compatible game versions: 1.16.5-1.20.2
 
 ### Main Changes / 主要修改内容
 
