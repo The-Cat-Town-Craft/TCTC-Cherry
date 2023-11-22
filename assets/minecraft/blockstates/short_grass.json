@@ -1,0 +1,32 @@
+{
+	"variants": {
+		"":[
+            { "model": "block/grass_22_p","weight":1},
+            { "model": "block/grass_22_p", "y": 90,"weight":1},
+            { "model": "block/grass_22_p", "y": 180,"weight":1},
+            { "model": "block/grass_22_p", "y": 270,"weight":1},
+
+            { "model": "block/grass_short_22_p","weight":1},
+            { "model": "block/grass_short_22_p", "y": 90,"weight":1},
+            { "model": "block/grass_short_22_p", "y": 180,"weight":1},
+            { "model": "block/grass_short_22_p", "y": 270,"weight":1},
+
+            { "model": "block/grass_med_22_p","weight":1},
+            { "model": "block/grass_med_22_p", "y": 90,"weight":1},
+            { "model": "block/grass_med_22_p", "y": 180,"weight":1},
+            { "model": "block/grass_med_22_p", "y": 270,"weight":1},
+
+            { "model": "block/grass_0","weight":4},
+            { "model": "block/grass_22","weight":4},
+            { "model": "block/grass_45","weight":4},
+
+            { "model": "block/grass_short_0","weight":4},
+            { "model": "block/grass_short_22","weight":4},
+            { "model": "block/grass_short_45","weight":4},
+
+            { "model": "block/grass_med_0","weight":4},
+            { "model": "block/grass_med_22","weight":4},
+            { "model": "block/grass_med_45","weight":4}
+			]
+    }
+}
