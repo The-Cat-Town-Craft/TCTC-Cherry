@@ -13,7 +13,7 @@
 
 目前支持的红显内容：1.16.5-1.19.2
 
-目前兼容的游戏版本：1.16.5-1.20.3
+目前兼容的游戏版本：1.17-1.20.3
 
 English
 
@@ -21,7 +21,7 @@ This texture pack is used as an add-on pack for [XeKr Redstone Display 1.17-V1](
 
 Currently supported redstone display content: 1.16.5-1.19.2
 
-Currently compatible game versions: 1.16.5-1.20.3
+Currently compatible game versions: 1.17-1.20.3
 
 ### Main Changes / 主要修改内容
 
@@ -55,6 +55,7 @@ English
 - 井字草模型，创意来源于 [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - 落沙显示，创意来源于[梧桐加减法](https://afdian.net/a/YSBBBB)，感谢药水棒冰授权兼材质制作指导
 - 被闪电击中的避雷针呈白色和铜色渐变
+- 粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包
 - 可选原版粉石附加包
 - 可选 Emissive 发光纹理附加包（兼轻重质压力板能量等级显示）
 
@@ -76,6 +77,7 @@ English
 - Grass model, idea from [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - Falling sand display，idea from [梧桐加减法](https://afdian.net/a/YSBBBB)
 - Lightning rod struck by lightning now have a white and copper gradient
+- Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu
 - Optional original pinkstone add-on pack
 - Optional Emissive texture add-on pack (light and heavy pressure plate power level display)
 
@@ -143,6 +145,7 @@ English: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/dee
     Capt Tastu：感谢他的创意授权
     药水棒冰：感谢他的创意授权
     南烛：材质创作指导
+    火昱Huoyu：选择框改色原版着色器实现授权
 
 English
 
@@ -151,3 +154,4 @@ English
     Capt Tastu: Thanks for his generous authorization
     YSBB: Thanks for his generous authorization
     Nan2uu: creation guidance
+    Huoyu：selection box color shader implementation authorization
