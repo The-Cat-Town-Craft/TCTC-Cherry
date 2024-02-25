@@ -29,11 +29,13 @@ Currently compatible game versions: 1.17-1.20.3
 
 - 红石元件主颜色修改为樱粉色
 - 不死图腾修改为[大白天](https://space.bilibili.com/190067998/)比心玩偶 (腐竹)
+- 自发光贴图（LabPBR标准）
 
 English
 
 - Changed the accent color of the redstone component to cherry blossom.
 - Totem of the Undying model is changed to a doll, using the TCTC server master's skin.
+- Emissive Textures (LabPBR Standard)
 
 ### Other changes / 其他修改内容
 
@@ -55,9 +57,9 @@ English
 - 井字草模型，创意来源于 [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - 落沙显示，创意来源于[梧桐加减法](https://afdian.net/a/YSBBBB)，感谢药水棒冰授权兼材质制作指导
 - 被闪电击中的避雷针呈白色和铜色渐变
-- 粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包
+- 粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包，[示例资源包视频链接](https://www.bilibili.com/video/BV1kK42117Wq/)
 - 可选原版粉石附加包
-- 可选 Emissive 发光纹理附加包（兼轻重质压力板能量等级显示）
+- 可选 Emissive 发光纹理附加包（兼轻重质压力板能量等级显示），需 [OptiFine](https://www.optifine.net/downloads) 或 [Continuity](https://modrinth.com/mod/continuity) 模组
 
 English
 
@@ -77,9 +79,9 @@ English
 - Grass model, idea from [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - Falling sand display，idea from [梧桐加减法](https://afdian.net/a/YSBBBB)
 - Lightning rod struck by lightning now have a white and copper gradient
-- Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu
+- Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu, [Sample rp video link](https://www.bilibili.com/video/BV1kK42117Wq/)
 - Optional original pinkstone add-on pack
-- Optional Emissive texture add-on pack (light and heavy pressure plate power level display)
+- Optional Emissive texture add-on pack (light and heavy pressure plate power level display), require [OptiFine](https://www.optifine.net/downloads) or [Continuity](https://modrinth.com/mod/continuity) mod
 
 ## Mod Requirement / 模组需求
 
@@ -92,12 +94,9 @@ To modify the color of redstone wire, you need to choose one of the following mo
 - [Vanadium](https://modrinth.com/mod/vanadium)
 - [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire)
 
-发光纹理需要自行选择以下模组之一
+发光纹理使用含 LabPBR 支持的光影
 
-Emissive textures require you to choose one of the following mods
-
-- [OptiFine](https://www.optifine.net/downloads)
-- [Continuity](https://modrinth.com/mod/continuity)
+Emissive textures require use shaders with LabPBR support
 
 ### Known issues / 已知问题
 
