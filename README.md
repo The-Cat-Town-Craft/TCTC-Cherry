@@ -13,7 +13,7 @@
 
 目前支持的红显内容：1.16.5-1.19.2
 
-目前兼容的游戏版本：1.17-1.20.3
+目前兼容的游戏版本：1.17-1.20.4
 
 English
 
@@ -21,7 +21,7 @@ This texture pack is used as an add-on pack for [XeKr Redstone Display 1.17-V1](
 
 Currently supported redstone display content: 1.16.5-1.19.2
 
-Currently compatible game versions: 1.17-1.20.3
+Currently compatible game versions: 1.17-1.20.4
 
 ### Main Changes / 主要修改内容
 
@@ -100,11 +100,11 @@ Emissive textures require use shaders with LabPBR support
 
 ### Known issues / 已知问题
 
-- 在 Minecraft 1.20+ 版本中使用 0.5.0+ 版本的 Sodium 和 Continuity 一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)
+- 在 Minecraft 1.20~1.20.4 版本中特定版本的 Sodium 与 Continuity 一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)
 - 轻重质压力板能量等级显示不兼容原版渲染，请使用发光纹理附加包且安装 Continuity 或 OptiFine 后使用 ComplementaryReimagined 光影
 
+- Using certain versions of Sodium with Continuity in Minecraft 1.20~1.20.4 will cause [Emissive textures Z-fighting](https://github.com/PepperCode1/Continuity/issues/292)
 - light and heavy pressure plate power level display do not compatible with vanilla render, please use the Emissive texture add-on pack and install Continuity or OptiFine to use ComplementaryReimagined Shaders
-- Using version 0.5.0+ of Sodium and Continuity in Minecraft versions 1.20+ together will cause [Emissive textures Z-fighting](https://github.com/PepperCode1/Continuity/issues/292).
 
 ## Author Information / 作者信息
 
@@ -114,8 +114,6 @@ Emissive textures require use shaders with LabPBR support
 
 附加作者：Surisen
 
-Xekr 材质 MCBBS 发布页：[链接](https://www.mcbbs.net/thread-823957-1-1.html)
-
 XeKr 原版红石显示1.17-V1：[链接](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
 
 
@@ -124,8 +122,6 @@ English
 Original Author: XeKr
 
 Addon author: Surisen
-
-Xekr RP MCBBS Release Page: [Link](https://www.mcbbs.net/thread-823957-1-1.html)
 
 XeKr redstone display1.17-V1: [Link](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
 
