@@ -1,14 +1,18 @@
 ﻿{
   "pack": {
     "pack_format": 9,
-    "supported_formats":[9,22],
+    "supported_formats":[9,23],
     "description":"\u00A7d基于 XeKr 原版红石显示1.17-V1附加"
   },
   "overlays":{
     "entries":[
       {
-        "directory":"1_20_2_compat",
-        "formats":[16,22]
+        "directory":"22_23_compat",
+        "formats":[22,23]
+      },
+      {
+        "directory":"16_23_compat",
+        "formats":[16,23]
       }
     ]
   }

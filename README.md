@@ -41,14 +41,13 @@ English
 
 简体中文
 
-- 猫爪风格红石线
 - 音符盒锁定显示
 - 栅栏门护眼锁定显示
 - 粉雪显示
 - 堆肥桶新外观
 - 阳光探测器新外观
 - 漏斗指向纹理简化
-- 漏斗、投掷器、发射器锁定显示，需要[XeKr原版红石显示1.17-V2附加包](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282)
+- 漏斗、投掷器、发射器锁定显示，需要[XeKr原版红石显示1.17-V2附加包](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282) 或在 1.20.2+ 的版本使用本包
 - 烟花火箭区分，需要支持cit的模组
 - 黑曜石系列方块新外观
 - 猫爪压力板
@@ -57,20 +56,19 @@ English
 - 井字草模型，创意来源于 [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - 落沙显示，创意来源于[梧桐加减法](https://afdian.net/a/YSBBBB)，感谢药水棒冰授权兼材质制作指导
 - 被闪电击中的避雷针呈白色和铜色渐变
-- 粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包，[示例资源包视频链接](https://www.bilibili.com/video/BV1kK42117Wq/)
-- 可选原版粉石附加包
+- (1.20.2+)粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包，[示例资源包视频链接](https://www.bilibili.com/video/BV1kK42117Wq/)
+- 可选猫爪风格红石线包，改色需要 [OptiFine](https://www.optifine.net/downloads) 或 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) 或 [Vanadium](https://modrinth.com/mod/vanadium) 或 [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) 模组
 - 可选 Emissive 发光纹理附加包（兼轻重质压力板能量等级显示），需 [OptiFine](https://www.optifine.net/downloads) 或 [Continuity](https://modrinth.com/mod/continuity) 模组
 
 English
 
-- Cat claw style redstone wire
 - Note block lock display
 - Fence gate eye protection lock display
 - powder snow display
 - Composter new look
 - Daylight detectors new look
 - Hopper pointing texture simplified
-- Locked display of hoppers, droppers, and dispensers. Need [XeKr redstone display 1.17-V2 addition](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282)
+- Locked display of hoppers, droppers, and dispensers. Need [XeKr redstone display 1.17-V2 addition](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282) or use this pack in Minecraft version 1.20.2+
 - Firework Rocket Differentiation. Requires a mod that supports CIT
 - Obsidian series of blocks new look
 - Cat claw pressure plate
@@ -79,20 +77,11 @@ English
 - Grass model, idea from [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - Falling sand display，idea from [梧桐加减法](https://afdian.net/a/YSBBBB)
 - Lightning rod struck by lightning now have a white and copper gradient
-- Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu, [Sample rp video link](https://www.bilibili.com/video/BV1kK42117Wq/)
-- Optional original pinkstone add-on pack
+- (1.20.2+) Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu, [Sample rp video link](https://www.bilibili.com/video/BV1kK42117Wq/)
+- Optional Cat claw style redstone wire, require [OptiFine](https://www.optifine.net/downloads) or [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) or [Vanadium](https://modrinth.com/mod/vanadium) or [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) mod
 - Optional Emissive texture add-on pack (light and heavy pressure plate power level display), require [OptiFine](https://www.optifine.net/downloads) or [Continuity](https://modrinth.com/mod/continuity) mod
 
 ## Mod Requirement / 模组需求
-
-修改红石粉颜色需要自行选择以下模组之一（如果不需要猫爪红石线又不想安装改色模组，可选用原版粉石附加包，可于GitHub Releases页面下载 Minimalist_Style_CherryWire.zip）
-
-To modify the color of redstone wire, you need to choose one of the following mods (If you don’t need the Cat claw style redstone wire and don’t want to install these mods, you can download the Minimalist_Style_CherryWire.zip pack from the GitHub Releases page)
-
-- [OptiFine](https://www.optifine.net/downloads)
-- [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)
-- [Vanadium](https://modrinth.com/mod/vanadium)
-- [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire)
 
 发光纹理使用含 LabPBR 支持的光影
 
@@ -115,7 +104,6 @@ Emissive textures require use shaders with LabPBR support
 附加作者：Surisen
 
 XeKr 原版红石显示1.17-V1：[链接](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
-
 
 English
 
