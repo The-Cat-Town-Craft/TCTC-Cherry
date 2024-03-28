@@ -11,17 +11,17 @@
 
 本纹理包作为 [ XeKr 原版红石显示1.17-V1 ](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524) 的附加包使用
 
-目前支持的红显内容：1.16.5-1.19.2
+目前支持的红显内容：1.16.5-1.20.4 (还差雕文书架)
 
-目前兼容的游戏版本：1.17-1.20.4
+目前兼容的游戏版本：1.16.5-1.20.4
 
 English
 
 This texture pack is used as an add-on pack for [XeKr Redstone Display 1.17-V1](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
 
-Currently supported redstone display content: 1.16.5-1.19.2
+Currently supported redstone display content: 1.16.5-1.20.4 (Chiseled Bookshelf is not support yet)
 
-Currently compatible game versions: 1.17-1.20.4
+Currently compatible game versions: 1.16.5-1.20.4
 
 ### Main Changes / 主要修改内容
 
@@ -41,7 +41,7 @@ English
 
 简体中文
 
-- 音符盒锁定显示
+- 音符盒锁定显示，(生物头颅状态显示(仅在1.20.2+启用))
 - 栅栏门护眼锁定显示
 - 粉雪显示
 - 堆肥桶新外观
@@ -50,19 +50,17 @@ English
 - 漏斗、投掷器、发射器锁定显示，需要[XeKr原版红石显示1.17-V2附加包](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282) 或在 1.20.2+ 的版本使用本包
 - 烟花火箭区分，需要支持cit的模组
 - 黑曜石系列方块新外观
-- 猫爪压力板
-- 猫爪红石灯
 - 兼容[彩虹像素](https://afdian.net/a/Nan2uu)，感谢南烛提供的材质制作指导（使用时请按下列顺序加载：XeKr原版红显1.17-V1置于最底层，其次为彩虹像素v3.2.3+，接着是樱喵附加，最后是XeKr原版红石显示1.17-V2附加包）
 - 井字草模型，创意来源于 [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - 落沙显示，创意来源于[梧桐加减法](https://afdian.net/a/YSBBBB)，感谢药水棒冰授权兼材质制作指导
 - 被闪电击中的避雷针呈白色和铜色渐变
-- (1.20.2+)粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包，[示例资源包视频链接](https://www.bilibili.com/video/BV1kK42117Wq/)
-- 可选猫爪风格红石线包，改色需要 [OptiFine](https://www.optifine.net/downloads) 或 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) 或 [Vanadium](https://modrinth.com/mod/vanadium) 或 [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) 模组
+- (仅在1.20.2+启用) 粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包，[示例资源包视频链接](https://www.bilibili.com/video/BV1kK42117Wq/)
+- 可选猫爪风格包 (包含猫爪红石线，猫爪压力板，猫爪红石灯)，改色需要 [OptiFine](https://www.optifine.net/downloads) 或 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) 或 [Vanadium](https://modrinth.com/mod/vanadium) 或 [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) 模组
 - 可选 Emissive 发光纹理附加包（兼轻重质压力板能量等级显示），需 [OptiFine](https://www.optifine.net/downloads) 或 [Continuity](https://modrinth.com/mod/continuity) 模组
 
 English
 
-- Note block lock display
+- Note block lock display (Mob head status display (only enabled in 1.20.2+))
 - Fence gate eye protection lock display
 - powder snow display
 - Composter new look
@@ -71,15 +69,13 @@ English
 - Locked display of hoppers, droppers, and dispensers. Need [XeKr redstone display 1.17-V2 addition](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282) or use this pack in Minecraft version 1.20.2+
 - Firework Rocket Differentiation. Requires a mod that supports CIT
 - Obsidian series of blocks new look
-- Cat claw pressure plate
-- Cat claw redstone lamp
 - Compatible with [RainbowPixel](https://afdian.net/a/Nan2uu) (When using, please place it above the XeKr redstone display 1.17-V1, followed by the RainbowPixel v3.2.3+, then the TCTC Cherry addtion, and finally the XeKr redstone display 1.17-V2 addtion)
 - Grass model, idea from [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - Falling sand display，idea from [梧桐加减法](https://afdian.net/a/YSBBBB)
 - Lightning rod struck by lightning now have a white and copper gradient
-- (1.20.2+) Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu, [Sample rp video link](https://www.bilibili.com/video/BV1kK42117Wq/)
-- Optional Cat claw style redstone wire, require [OptiFine](https://www.optifine.net/downloads) or [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) or [Vanadium](https://modrinth.com/mod/vanadium) or [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) mod
-- Optional Emissive texture add-on pack (light and heavy pressure plate power level display), require [OptiFine](https://www.optifine.net/downloads) or [Continuity](https://modrinth.com/mod/continuity) mod
+- (only enabled in 1.20.2+) Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu, [Sample rp video link](https://www.bilibili.com/video/BV1kK42117Wq/)
+- Optional Meow add-on ( include Cat claw pressure plate, Cat claw redstone lamp), require [OptiFine](https://www.optifine.net/downloads) or [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) or [Vanadium](https://modrinth.com/mod/vanadium) or [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) mod
+- Optional Emissive texture add-on, require [OptiFine](https://www.optifine.net/downloads) or [Continuity](https://modrinth.com/mod/continuity) mod
 
 ## Mod Requirement / 模组需求
 
@@ -90,10 +86,10 @@ Emissive textures require use shaders with LabPBR support
 ### Known issues / 已知问题
 
 - 在 Minecraft 1.20~1.20.4 版本中特定版本的 Sodium 与 Continuity 一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)
-- 轻重质压力板能量等级显示不兼容原版渲染，请使用发光纹理附加包且安装 Continuity 或 OptiFine 后使用 ComplementaryReimagined 光影
+- 猫爪附加包中的轻重质压力板能量等级显示不兼容原版渲染，请使用发光纹理附加包且安装 Continuity 或 OptiFine 后使用 ComplementaryReimagined 光影
 
 - Using certain versions of Sodium with Continuity in Minecraft 1.20~1.20.4 will cause [Emissive textures Z-fighting](https://github.com/PepperCode1/Continuity/issues/292)
-- light and heavy pressure plate power level display do not compatible with vanilla render, please use the Emissive texture add-on pack and install Continuity or OptiFine to use ComplementaryReimagined Shaders
+- Meow add-on's light and heavy pressure plate power level display do not compatible with vanilla render, please use the Emissive texture add-on pack and install Continuity or OptiFine to use ComplementaryReimagined Shaders
 
 ## Author Information / 作者信息
 
@@ -103,7 +99,9 @@ Emissive textures require use shaders with LabPBR support
 
 附加作者：Surisen
 
-XeKr 原版红石显示1.17-V1：[链接](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
+Xekr 哔哩哔哩主页：[链接](https://space.bilibili.com/5930630)
+
+XeKr 原版红石显示 1.17-V1：[链接](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
 
 English
 
@@ -111,7 +109,9 @@ Original Author: XeKr
 
 Addon author: Surisen
 
-XeKr redstone display1.17-V1: [Link](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
+Xekr Blibili page：[Link](https://space.bilibili.com/5930630)
+
+XeKr redstone display 1.17-V1: [Link](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
 
 ## LICENSES / 许可协议
 
