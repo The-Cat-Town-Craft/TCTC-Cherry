@@ -11,7 +11,7 @@
 
 本纹理包作为 [ XeKr 原版红石显示1.17-V1 ](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524) 的附加包使用
 
-目前支持的红显内容：1.16.5-1.20.4 (还差雕文书架)
+目前支持的红显内容：1.16.5-1.20.4
 
 目前兼容的游戏版本：1.16.5-1.20.4
 
@@ -19,7 +19,7 @@ English
 
 This texture pack is used as an add-on pack for [XeKr Redstone Display 1.17-V1](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3344524)
 
-Currently supported redstone display content: 1.16.5-1.20.4 (Chiseled Bookshelf is not support yet)
+Currently supported redstone display content: 1.16.5-1.20.4
 
 Currently compatible game versions: 1.16.5-1.20.4
 
@@ -41,9 +41,10 @@ English
 
 简体中文
 
+- 雕文书架红石显示
 - 音符盒锁定显示，(生物头颅状态显示(仅在1.20.2+启用))
 - 栅栏门护眼锁定显示
-- 粉雪显示
+- 粉雪、可疑类方块显示
 - 堆肥桶新外观
 - 阳光探测器新外观
 - 漏斗指向纹理简化
@@ -60,9 +61,10 @@ English
 
 English
 
+- Chiseled Bookshelf status display
 - Note block lock display (Mob head status display (only enabled in 1.20.2+))
 - Fence gate eye protection lock display
-- powder snow display
+- powder snow, suspicious block display
 - Composter new look
 - Daylight detectors new look
 - Hopper pointing texture simplified

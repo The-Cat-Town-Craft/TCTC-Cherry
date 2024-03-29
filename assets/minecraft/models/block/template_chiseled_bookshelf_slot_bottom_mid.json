@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"front": "#texture",
+		"side": "#texture"
+	},
+	"elements": [
+		{
+			"name": "chiseled_bookshelf_front",
+			"from": [5, 0, 0],
+			"to": [10, 8, 0],
+			"faces": {
+				"north": {"uv": [6, 8, 11, 16], "texture": "#front", "cullface": "north"}
+			}
+		},
+		{
+			"name": "chiseled_bookshelf_side",
+			"from": [0, 6, 7],
+			"to": [0, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 9, 6]},
+			"faces": {
+				"west": {"uv": [7, 8, 9, 10], "texture": "#side", "cullface": "west"}
+			}
+		},
+		{
+			"name": "chiseled_bookshelf_side",
+			"from": [16, 6, 7],
+			"to": [16, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 9, 10]},
+			"faces": {
+				"east": {"uv": [7, 8, 9, 10], "texture": "#side", "cullface": "east"}
+			}
+		},
+		{
+			"name": "chiseled_bookshelf_top",
+			"from": [7, 16, 6],
+			"to": [9, 16, 8],
+			"rotation": {"angle": 0, "axis": "x", "origin": [9, 16, 9]},
+			"faces": {
+				"up": {"uv": [7, 8, 9, 10], "rotation": 180, "texture": "#side", "cullface": "up"}
+			}
+		},
+		{
+			"name": "chiseled_bookshelf_bottom",
+			"from": [7, 0, 8],
+			"to": [9, 0, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 9]},
+			"faces": {
+				"down": {"uv": [7, 8, 9, 10], "texture": "#side", "cullface": "down"}
+			}
+		},
+		{
+			"name": "chiseled_bookshelf_back",
+			"from": [6, 1, 16],
+			"to": [10, 7, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 12, 16]},
+			"faces": {
+				"south": {"uv": [6, 9, 10, 15], "texture": "#front", "cullface": "south"}
+			}
+		}
+	]
+}
