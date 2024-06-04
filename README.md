@@ -83,17 +83,17 @@ English
 
 ## Mod Requirement / 模组需求
 
-发光纹理使用含 LabPBR 支持的光影，在不开启光影的情况下需要 [OptiFine](https://www.optifine.net/downloads) 或 [Continuity](https://modrinth.com/mod/continuity) 模组.
+发光纹理使用含 LabPBR 支持的光影，在不开启光影的情况下需要 [OptiFine](https://www.optifine.net/downloads) 或 [MoreMcmeta](https://modrinth.com/mod/moremcmeta) + [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) 模组.
 
-Emissive textures require use shaders with LabPBR support, _e textures require [OptiFine](https://www.optifine.net/downloads) or [Continuity](https://modrinth.com/mod/continuity) mod.
+Emissive textures require use shaders with LabPBR support, _e textures require [OptiFine](https://www.optifine.net/downloads) or [MoreMcmeta](https://modrinth.com/mod/moremcmeta) + [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) mods.
 
 ### Known issues / 已知问题
 
-- 在 Minecraft 1.20+ 版本中部分版本的 Sodium 与 Continuity 一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)，如果不想看见深度冲突，可以在 Continuity 的模组设置里把发光纹理（_e 纹理）选项关闭；
-- 猫爪附加包中的轻重质压力板能量等级显示不兼容原版渲染，请使用发光纹理附加包且安装 Continuity 或 OptiFine 后使用 ComplementaryReimagined 光影；
+①在 Minecraft 1.20+ 版本中部分版本的 Sodium 与 Continuity 一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)，如果不想看见深度冲突，可以在 Continuity 的模组设置里把发光纹理（_e 纹理）选项关闭，安装 [MoreMcmeta](https://modrinth.com/mod/moremcmeta) 和 [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) 模组作为发光纹理功能的平替；
+②猫爪附加包中的轻重质压力板能量等级显示不兼容原版渲染；
 
-- Using certain versions of Sodium with Continuity in Minecraft 1.20~1.20.4 will cause [Emissive textures Z-fighting](https://github.com/PepperCode1/Continuity/issues/292), If you do not want to see Z-fighting, You can turn off the emissive texture (_e texture) option in Continuity's mod settings;
-- Meow add-on's light and heavy pressure plate power level display do not compatible with vanilla render, please use the Emissive texture add-on pack and install Continuity or OptiFine to use ComplementaryReimagined Shaders
+①Using certain versions of Sodium with Continuity in Minecraft 1.20~1.20.4 will cause [Emissive textures Z-fighting](https://github.com/PepperCode1/Continuity/issues/292), If you do not want to see Z-fighting, You can turn off the emissive texture (_e texture) option in Continuity's mod settings, use [MoreMcmeta](https://modrinth.com/mod/moremcmeta) and [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) instead;
+②Meow add-on's light and heavy pressure plate power level display do not compatible with vanilla render;
 
 ## Author Information / 作者信息
 
