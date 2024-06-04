@@ -133,6 +133,7 @@ English: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/dee
     药水棒冰：感谢他的创意授权
     南烛：材质创作指导
     火昱Huoyu：选择框改色原版着色器实现授权
+    GeForceLegend：许多指导和问题定位解决
 
 English
 
@@ -142,3 +143,4 @@ English
     YSBB: Thanks for his generous authorization
     Nan2uu: creation guidance
     Huoyu：selection box color shader implementation authorization
+    GeForceLegend：Lots of guidance and problem solving
