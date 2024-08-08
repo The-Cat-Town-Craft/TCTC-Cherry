@@ -41,6 +41,7 @@ English
 
 简体中文
 
+- 不稳定的脚手架距离显示
 - 涡流，旋风旗帜图案区分
 - 合成器风格化改色红石显示
 - 雕文书架红石显示
@@ -62,6 +63,7 @@ English
 
 English
 
+- Unstable scaffolding distance display
 - flow & guster banner pattern distinguish
 - Crafter styles status display
 - Chiseled Bookshelf status display

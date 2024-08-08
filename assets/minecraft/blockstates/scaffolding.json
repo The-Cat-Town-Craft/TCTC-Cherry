@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "bottom=false,distance=0": { "model": "block/scaffolding_stable" },
+        "bottom=true,distance=1": { "model": "block/scaffolding_d1" },
+        "bottom=true,distance=2": { "model": "block/scaffolding_d2" },
+        "bottom=true,distance=3": { "model": "block/scaffolding_d3" },
+        "bottom=true,distance=4": { "model": "block/scaffolding_d4" },
+        "bottom=true,distance=5": { "model": "block/scaffolding_d5" },
+        "bottom=true,distance=6": { "model": "block/scaffolding_d6" },
+        "bottom=true,distance=7": { "model": "block/scaffolding_d7" }
+    }
+}

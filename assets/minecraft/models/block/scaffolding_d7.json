@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/scaffolding_unstable_distance",
+	"textures": {
+		"top": "minecraft:block/scaffolding_top_d7"
+	}
+  }
