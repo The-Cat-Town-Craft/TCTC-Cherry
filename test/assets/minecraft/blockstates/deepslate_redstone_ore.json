@@ -1,0 +1,16 @@
+
+{
+  "multipart": [
+    {
+      "apply": {"model": "minecraft:block/deepslate_redstone_ore_stone"}
+    },
+    {
+      "when": {"lit":"false"},
+      "apply": {"model": "minecraft:block/deepslate_redstone_ore_ore"}
+    },
+    {     
+      "when": {"lit":"true"},
+      "apply": {"model": "minecraft:block/deepslate_redstone_ore_ore_lit"}
+    }
+  ]
+}
