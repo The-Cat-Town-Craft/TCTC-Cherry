@@ -13,7 +13,7 @@
 
 目前支持的红显内容：1.16.5-1.20.6
 
-目前兼容的游戏版本：1.16.5-1.20.6
+目前兼容的游戏版本：1.16.5-24w33a
 
 English
 
@@ -21,7 +21,7 @@ This texture pack is used as an add-on pack for [XeKr Redstone Display 1.17-V1](
 
 Currently supported redstone display content: 1.16.5-1.20.6
 
-Currently compatible game versions: 1.16.5-1.20.6
+Currently compatible game versions: 1.16.5-24w33a
 
 ### Main Changes / 主要修改内容
 
@@ -42,7 +42,6 @@ English
 简体中文
 
 - 不稳定的脚手架距离显示
-- 涡流，旋风旗帜图案区分
 - 合成器风格化改色红石显示
 - 雕文书架红石显示
 - 音符盒锁定显示，(生物头颅状态显示(仅在1.20.2+启用))
@@ -64,7 +63,6 @@ English
 English
 
 - Unstable scaffolding distance display
-- flow & guster banner pattern distinguish
 - Crafter styles status display
 - Chiseled Bookshelf status display
 - Note block lock display (Mob head status display (only enabled in 1.20.2+))
@@ -93,9 +91,11 @@ Emissive textures require use shaders with LabPBR support, _e textures require [
 
 - 在 Minecraft 1.20+ 版本中部分版本的 Sodium 与 Continuity 一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)，如果不想看见深度冲突，可以在 Continuity 的模组设置里把发光纹理（_e 纹理）选项关闭，安装 [MoreMcmeta](https://modrinth.com/mod/moremcmeta) 和 [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) 模组作为发光纹理功能的平替；
 - 猫爪附加包中的轻重质压力板能量等级显示不兼容原版渲染；
+- 雕纹书架的手持模型和东西方向摆放时的模型存在问题，需要等待修复；
 
 - Using certain versions of Sodium with Continuity in Minecraft 1.20~1.20.4 will cause [Emissive textures Z-fighting](https://github.com/PepperCode1/Continuity/issues/292), If you do not want to see Z-fighting, You can turn off the emissive texture (_e texture) option in Continuity's mod settings, use [MoreMcmeta](https://modrinth.com/mod/moremcmeta) and [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) instead;
 - Meow add-on's light and heavy pressure plate power level display do not compatible with vanilla render;
+- Chiseled Bookshelf hand-held model and the model placed in the east-west direction have problems and need to be fixed;
 
 ## Author Information / 作者信息
 
