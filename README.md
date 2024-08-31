@@ -13,7 +13,7 @@
 
 目前支持的红显内容：1.16.5-1.20.6
 
-目前兼容的游戏版本：1.16.5-24w33a
+目前兼容的游戏版本：1.16.5-24w35a
 
 English
 
@@ -21,7 +21,7 @@ This texture pack is used as an add-on pack for [XeKr Redstone Display 1.17-V1](
 
 Currently supported redstone display content: 1.16.5-1.20.6
 
-Currently compatible game versions: 1.16.5-24w33a
+Currently compatible game versions: 1.16.5-24w35a
 
 ### Main Changes / 主要修改内容
 
@@ -50,14 +50,14 @@ English
 - 堆肥桶新外观
 - 阳光探测器新外观
 - 漏斗指向纹理简化
-- 漏斗、投掷器、发射器锁定显示，需要[XeKr原版红石显示1.17-V2附加包](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282) 或在 1.20.2+ 的版本使用本包
+- 漏斗、投掷器、发射器锁定显示(仅在1.20.2+启用)，更低版本需要[XeKr原版红石显示1.17-V2附加包](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282)
 - 烟花火箭区分，需要支持cit的模组
 - 黑曜石系列方块新外观
 - 兼容[彩虹像素](https://afdian.net/a/Nan2uu)，感谢南烛提供的材质制作指导（使用时请按下列顺序加载：XeKr原版红显1.17-V1置于最底层，其次为彩虹像素v3.2.3+，接着是樱喵附加，最后是XeKr原版红石显示1.17-V2附加包）
 - 井字草模型，创意来源于 [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - 落沙显示，创意来源于[梧桐加减法](https://afdian.net/a/YSBBBB)，感谢药水棒冰授权兼材质制作指导
 - 被闪电击中的避雷针呈白色和铜色渐变
-- (仅在1.20.2+启用) 粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包，[示例资源包视频链接](https://www.bilibili.com/video/BV1kK42117Wq/)
+- (仅在1.20.2-1.20.6启用) 粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包，[示例资源包视频链接](https://www.bilibili.com/video/BV1kK42117Wq/)
 - 可选猫爪风格包 (包含猫爪红石线，猫爪压力板，猫爪红石灯)，改色需要 [OptiFine](https://www.optifine.net/downloads) 或 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) 或 [Vanadium](https://modrinth.com/mod/vanadium) 或 [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) 模组
 
 English
@@ -71,14 +71,14 @@ English
 - Composter new look
 - Daylight detectors new look
 - Hopper pointing texture simplified
-- Locked display of hoppers, droppers, and dispensers. Need [XeKr redstone display 1.17-V2 addition](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282) or use this pack in Minecraft version 1.20.2+
+- Locked display of hoppers, droppers, and dispensers(only enabled in 1.20.2+). Lower versions need [XeKr redstone display 1.17-V2 addition](https://legacy.curseforge.com/minecraft/texture-packs/xekr-redstone-display/files/3504282)
 - Firework Rocket Differentiation. Requires a mod that supports CIT
 - Obsidian series of blocks new look
 - Compatible with [RainbowPixel](https://afdian.net/a/Nan2uu) (When using, please place it above the XeKr redstone display 1.17-V1, followed by the RainbowPixel v3.2.3+, then the TCTC Cherry addtion, and finally the XeKr redstone display 1.17-V2 addtion)
 - Grass model, idea from [BSL mini pack](https://bitslablab.com/bslminipacks/)
 - Falling sand display，idea from [梧桐加减法](https://afdian.net/a/YSBBBB)
 - Lightning rod struck by lightning now have a white and copper gradient
-- (only enabled in 1.20.2+) Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu, [Sample rp video link](https://www.bilibili.com/video/BV1kK42117Wq/)
+- (only enabled in 1.20.2-1.20.6) Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu, [Sample rp video link](https://www.bilibili.com/video/BV1kK42117Wq/)
 - Optional Meow add-on ( include Cat claw pressure plate, Cat claw redstone lamp), require [OptiFine](https://www.optifine.net/downloads) or [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) or [Vanadium](https://modrinth.com/mod/vanadium) or [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) mod
 
 ## Mod Requirement / 模组需求
@@ -89,13 +89,11 @@ Emissive textures require use shaders with LabPBR support, _e textures require [
 
 ### Known issues / 已知问题
 
-- 在 Minecraft 1.20+ 版本中部分版本的 Sodium 与 Continuity 一同使用会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)，如果不想看见深度冲突，可以在 Continuity 的模组设置里把发光纹理（_e 纹理）选项关闭，安装 [MoreMcmeta](https://modrinth.com/mod/moremcmeta) 和 [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) 模组作为发光纹理功能的平替；
+- 在 Minecraft 1.20+ 版本中较新版本的 Sodium 会导致发光纹理和基础纹理产生[深度冲突](https://github.com/PepperCode1/Continuity/issues/292)，如果不想看见深度冲突，可以在 Continuity 的模组设置里把发光纹理（_e 纹理）选项关闭；
 - 猫爪附加包中的轻重质压力板能量等级显示不兼容原版渲染；
-- 雕纹书架的手持模型和东西方向摆放时的模型存在问题，需要等待修复；
 
-- Using certain versions of Sodium with Continuity in Minecraft 1.20~1.20.4 will cause [Emissive textures Z-fighting](https://github.com/PepperCode1/Continuity/issues/292), If you do not want to see Z-fighting, You can turn off the emissive texture (_e texture) option in Continuity's mod settings, use [MoreMcmeta](https://modrinth.com/mod/moremcmeta) and [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) instead;
+- In Minecraft 1.20+, the newer versions of Sodium will cause [Z-fighting](https://github.com/PepperCode1/Continuity/issues/292) between the emission texture and the base texture, If you do not want to see Z-fighting, You can turn off the emissive texture (_e texture) option in Continuity's mod settings;
 - Meow add-on's light and heavy pressure plate power level display do not compatible with vanilla render;
-- Chiseled Bookshelf hand-held model and the model placed in the east-west direction have problems and need to be fixed;
 
 ## Author Information / 作者信息
 
