@@ -10,7 +10,7 @@
 			"from": [7, 0, 7],
 			"to": [9, 10, 9],
 			"shade": false,
-			"light_emission":9,
+			"light_emission":15,
 			"faces": {
 				"north": {"uv": [7, 6, 9, 16], "texture": "#torch"},
 				"east": {"uv": [7, 6, 9, 16], "texture": "#torch"},
@@ -24,7 +24,7 @@
 			"from": [9.5, 7.5, 6.5],
 			"to": [6.5, 10.5, 9.5],
 			"shade": false,
-			"light_emission":9,
+			"light_emission":15,
 			"faces": {
 				"north": {"uv": [6, 5, 7, 6], "texture": "#torch"},
 				"east": {"uv": [6, 5, 7, 6], "texture": "#torch"},
