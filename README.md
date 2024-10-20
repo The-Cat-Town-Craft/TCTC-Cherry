@@ -13,7 +13,7 @@
 
 目前支持的红显内容：1.16.5-1.20.6
 
-目前兼容的游戏版本：1.16.5-24w35a
+目前兼容的游戏版本：1.16.5-1.21.2
 
 English
 
@@ -21,7 +21,7 @@ This texture pack is used as an add-on pack for [XeKr Redstone Display 1.17-V1](
 
 Currently supported redstone display content: 1.16.5-1.20.6
 
-Currently compatible game versions: 1.16.5-24w35a
+Currently compatible game versions: 1.16.5-1.21.2
 
 ### Main Changes / 主要修改内容
 
@@ -29,18 +29,25 @@ Currently compatible game versions: 1.16.5-24w35a
 
 - 红石元件主颜色修改为樱粉色
 - 不死图腾修改为[大白天](https://space.bilibili.com/190067998/)比心玩偶 (腐竹)
-- 自发光贴图（LabPBR标准及OptiFine使用的_e纹理）
+- 自发光贴图：
+    - 标准一：LabPBR标准，推荐配合 [Complementary r5.3+](https://modrinth.com/shader/complementary-reimagined/version/latest) 光影（+[Euphoria Patches 1.4.1+](https://www.euphoriapatches.com/how-to-install/)），将集成PBR+自发光模式设置为 labPBR > IPBR+;
+    - 标准二：OptiFine 使用的 _e 纹理（仅在 1.16-24w37a 可用）
+    - 标准三：原版 light_emission 模型字段（在 24w37a 后可用，因功能限制，制作繁琐等原因，目前只完成了一部分方块）
 
 English
 
 - Changed the accent color of the redstone component to cherry blossom.
 - Totem of the Undying model is changed to a doll, using the TCTC server master's skin.
-- Emissive Textures (LabPBR Standard & OptiFine _e textures)
+- Emissive Textures: 
+    - Standard 1: labPBR, it is recommended to use With [Complementary r5.3+ Shader](https://modrinth.com/shader/complementary-reimagined/version/latest) (+[Euphoria Patches 1.4.1+](https://www.euphoriapatches.com/how-to-install/), and set the integrated PBR+ emission mode to labPBR > IPBR+
+    - Standard 2: OptiFine emission textures (Available only in 1.16-24w37a)
+    - Standard 3: Vanilla light_emission models (Available after 24w37a, due to functional limitations, cumbersome production, etc., only a part of the blocks have been completed so far)
 
 ### Other changes / 其他修改内容
 
 简体中文
 
+- 比较器、侦测器新外观
 - 不稳定的脚手架距离显示
 - 合成器风格化改色红石显示
 - 雕文书架红石显示
@@ -58,10 +65,11 @@ English
 - 落沙显示，创意来源于[梧桐加减法](https://afdian.net/a/YSBBBB)，感谢药水棒冰授权兼材质制作指导
 - 被闪电击中的避雷针呈白色和铜色渐变
 - (仅在1.20.2-1.20.6启用) 粉色选择框着色器实现，感谢火昱Huoyu发布的示例资源包，[示例资源包视频链接](https://www.bilibili.com/video/BV1kK42117Wq/)
-- 可选猫爪风格包 (包含猫爪红石线，猫爪压力板，猫爪红石灯)，改色需要 [OptiFine](https://www.optifine.net/downloads) 或 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) 或 [Vanadium](https://modrinth.com/mod/vanadium) 或 [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) 模组
+- 可选猫爪风格包 (包含猫爪红石线，猫爪压力板，猫爪红石灯)，改色需要 [OptiFine](https://www.optifine.net/downloads) 或 [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) 或 [Vanadium](https://modrinth.com/mod/vanadium) 或 [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) 或 [Polytone](https://modrinth.com/mod/polytone) 模组
 
 English
 
+- Comparator and repeator new look
 - Unstable scaffolding distance display
 - Crafter styles status display
 - Chiseled Bookshelf status display
@@ -79,7 +87,7 @@ English
 - Falling sand display，idea from [梧桐加减法](https://afdian.net/a/YSBBBB)
 - Lightning rod struck by lightning now have a white and copper gradient
 - (only enabled in 1.20.2-1.20.6) Pink selection box shader implementation, thanks to the sample rp poseted by 火昱Huoyu, [Sample rp video link](https://www.bilibili.com/video/BV1kK42117Wq/)
-- Optional Meow add-on ( include Cat claw pressure plate, Cat claw redstone lamp), require [OptiFine](https://www.optifine.net/downloads) or [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) or [Vanadium](https://modrinth.com/mod/vanadium) or [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) mod
+- Optional Meow add-on ( include Cat claw pressure plate, Cat claw redstone lamp), require [OptiFine](https://www.optifine.net/downloads) or [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) or [Vanadium](https://modrinth.com/mod/vanadium) or [CherryWire](https://github.com/The-Cat-Town-Craft/Cherry-Wire) or [Polytone](https://modrinth.com/mod/polytone) mod
 
 ## Mod Requirement / 模组需求
 
