@@ -1,26 +1,30 @@
 {
-    "ambientocclusion": false,
-    "textures": {
-        "particle": "block/redstone_dust_dot_p01",
-        "line": "block/redstone_dust_dot_p01",
-        "overlay": "block/redstone_dust_overlay"
-    },
-    "elements": [
-        {   "from": [ 0, 0.25, 0 ],
-            "to": [ 16, 0.25, 16 ],
-            "shade": false,
-            "faces": {
-                "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#line", "tintindex": -1 },
-                "down": { "uv": [ 0, 16, 16, 0 ], "texture": "#line", "tintindex": -1 }
-            }
-        },
-        {   "from": [ 0, 0.25, 0 ],
-            "to": [ 16, 0.25, 16 ],
-            "shade": false,
-            "faces": {
-                "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#overlay" },
-                "down": { "uv": [ 0, 16, 16, 0 ], "texture": "#overlay" }
-            }
-        }
-    ]
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/redstone_dust_dot_p01",
+		"line": "block/redstone_dust_dot_p01",
+		"overlay": "block/redstone_dust_overlay"
+	},
+	"elements": [
+		{
+			"from": [0, 0.25, 0],
+			"to": [16, 0.25, 16],
+			"shade": false,
+			"light_emission": 12,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#line"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#line"}
+			}
+		},
+		{
+			"from": [0, 0.25, 0],
+			"to": [16, 0.25, 16],
+			"shade": false,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#overlay"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#overlay"}
+			}
+		}
+	]
 }

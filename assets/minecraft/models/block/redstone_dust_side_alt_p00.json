@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
     "ambientocclusion": false,
     "textures": {
         "particle": "block/redstone_dust_dot_p00",

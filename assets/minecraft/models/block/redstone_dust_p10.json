@@ -1,16 +1,19 @@
 {
-    "ambientocclusion": false,
-    "textures": {
-        "particle": "block/redstone_dust_dot",
-        "line": "block/redstone_dust_p10"
-    },
-    "elements": [
-        {   "from": [ 6, 0.30, 6 ],
-            "to": [ 10, 0.30, 10 ],
-            "shade": false,
-            "faces": {
-                "up": { "uv": [ 0, 0, 16, 16], "texture": "#line" }
-            }
-        }
-    ]
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"line": "block/redstone_dust_p10",
+		"particle": "block/redstone_dust_dot"
+	},
+	"elements": [
+		{
+			"from": [6, 0.3, 6],
+			"to": [10, 0.3, 10],
+			"shade": false,
+			"light_emission": 15,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#line"}
+			}
+		}
+	]
 }
