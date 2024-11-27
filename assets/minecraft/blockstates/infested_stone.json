@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/infested_stone"
+      },
+      {
+        "model": "minecraft:block/infested_stone",
+        "y": 180
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+
+{
+    "parent": "minecraft:block/template_box_blocks_vertical_emission",
+    "textures": {
+		"box": "minecraft:block/danger_box",
+        "front": "minecraft:block/chiseled_stone_bricks",
+		"back": "minecraft:block/chiseled_stone_bricks",
+        "side": "minecraft:block/chiseled_stone_bricks",
+		"particle": "minecraft:block/chiseled_stone_bricks"
+    }
+}

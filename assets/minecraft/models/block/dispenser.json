@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_box_blocks",
+  "textures": {
+		"box": "minecraft:block/dispenser_side",
+    "front": "minecraft:block/dispenser_front",
+		"back": "minecraft:block/dispenser_back",
+    "side": "minecraft:block/dispenser_top",
+		"particle": "minecraft:block/dispenser_side"
+  }
+}

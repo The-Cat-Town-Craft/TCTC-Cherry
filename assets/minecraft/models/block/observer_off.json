@@ -1,0 +1,9 @@
+{
+    "parent": "block/template_observer",
+    "textures": {
+        "bottom": "block/observer_back",
+		"side": "block/observer_side",
+        "top": "block/observer_top",
+        "front": "block/observer_front"
+    }
+}
