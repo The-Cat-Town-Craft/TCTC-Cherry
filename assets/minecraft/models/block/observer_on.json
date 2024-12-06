@@ -5,8 +5,8 @@
 		"bottom": "block/observer_back_on",
 		"side": "block/observer_side_on",
 		"top": "block/observer_top_on",
-		"front": "block/observer_front_on",
-        "particle": "block/observer_front_on"
+		"particle": "block/observer_front_on",
+		"front": "block/observer_front_on"
 	},
 	"elements": [
 		{
@@ -216,7 +216,7 @@
 			"to": [16, 5, 16],
 			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 20]},
 			"faces": {
-				"east": {"uv": [4, 0, 16, 5], "rotation": 180, "texture": "#side", "cullface": "east"},
+				"east": {"uv": [4, 16, 16, 11], "rotation": 180, "texture": "#side", "cullface": "east"},
 				"down": {"uv": [16, 12, 11, 0], "rotation": 180, "texture": "#top", "cullface": "down"}
 			}
 		},
@@ -225,7 +225,7 @@
 			"to": [5, 5, 16],
 			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 20]},
 			"faces": {
-				"west": {"uv": [16, 0, 4, 5], "rotation": 180, "texture": "#side", "cullface": "west"},
+				"west": {"uv": [16, 16, 4, 11], "rotation": 180, "texture": "#side", "cullface": "west"},
 				"down": {"uv": [5, 12, 0, 0], "rotation": 180, "texture": "#top", "cullface": "down"}
 			}
 		},
