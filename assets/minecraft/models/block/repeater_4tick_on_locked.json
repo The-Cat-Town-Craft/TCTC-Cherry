@@ -215,7 +215,7 @@
 			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [13, 0, 3]},
 			"faces": {
-				"up": {"uv": [7, 6, 8, 7], "rotation": 90, "texture": "#top"}
+				"up": {"uv": [8, 7, 9, 8], "rotation": 90, "texture": "#top"}
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [13, 0, 3]},
 			"faces": {
-				"up": {"uv": [7, 6, 8, 7], "rotation": 90, "texture": "#top"}
+				"up": {"uv": [8, 7, 9, 8], "rotation": 90, "texture": "#top"}
 			}
 		},
 		{
@@ -233,7 +233,7 @@
 			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [12, 0, 3]},
 			"faces": {
-				"up": {"uv": [7, 6, 8, 7], "texture": "#top"}
+				"up": {"uv": [8, 7, 9, 8], "texture": "#top"}
 			}
 		},
 		{
