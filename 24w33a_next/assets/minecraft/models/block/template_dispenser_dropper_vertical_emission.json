@@ -216,7 +216,7 @@
 			"to": [12, 15, 16],
 			"rotation": {"angle": 0, "axis": "x", "origin": [1, 8, 8]},
 			"faces": {
-				"north": {"uv": [11, 13, 12, 15], "rotation": 180, "texture": "#side", "cullface": "north"},
+				"north": {"uv": [4, 13, 12, 15], "rotation": 180, "texture": "#side", "cullface": "north"},
 				"south": {"uv": [4, 13, 12, 15], "rotation": 180, "texture": "#side", "cullface": "south"}
 			}
 		},
