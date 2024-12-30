@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_dispenser_dropper_vertical",
+  "textures": {
+		"particle": "minecraft:block/dispenser_side",
+    "front": "minecraft:block/dispenser_front_vertical",
+		"back": "minecraft:block/dispenser_bottom",
+    "side": "minecraft:block/dispenser_top"
+  }
+}

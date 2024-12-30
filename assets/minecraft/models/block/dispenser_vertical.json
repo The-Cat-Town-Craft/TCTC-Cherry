@@ -1,10 +1,24 @@
 {
-  "parent": "minecraft:block/template_box_blocks_vertical",
-  "textures": {
-		"box": "minecraft:block/dispenser_side",
-		"particle": "minecraft:block/dispenser_side",
-    "front": "minecraft:block/dispenser_front_vertical",
-		"back": "minecraft:block/dispenser_bottom",
-    "side": "minecraft:block/dispenser_top"
-  }
+	"credit": "Made with Blockbench",
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"bottom": "block/dispenser_bottom",
+		"top": "block/dispenser_front_vertical",
+		"side": "block/dispenser_top",
+		"particle": "block/dispenser_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
 }

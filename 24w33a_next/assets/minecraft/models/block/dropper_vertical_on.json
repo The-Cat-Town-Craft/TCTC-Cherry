@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/template_dispenser_dropper_vertical_emission",
+    "textures": {
+		"box": "minecraft:block/cyan_box",
+		"particle": "minecraft:block/dropper_side_on",
+        "front": "minecraft:block/dropper_front_vertical_on",
+		"back": "minecraft:block/dropper_bottom_on",
+        "side": "minecraft:block/dropper_top_on"
+    }
+}

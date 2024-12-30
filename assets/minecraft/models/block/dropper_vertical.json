@@ -1,10 +1,9 @@
 {
-  "parent": "minecraft:block/template_box_blocks_vertical",
-  "textures": {
-		"box": "minecraft:block/dropper_side",
-		"particle": "minecraft:block/dropper_side",
-        "front": "minecraft:block/dropper_front_vertical",
-		"back": "minecraft:block/dropper_bottom",
-        "side": "minecraft:block/dropper_top"
-  }
+	"parent": "block/dispenser_vertical",
+	"textures": {
+		"particle": "block/dropper_side",
+		"bottom": "block/dropper_bottom",
+		"top": "block/dropper_front_vertical",
+		"side": "block/dropper_top"
+	}
 }
