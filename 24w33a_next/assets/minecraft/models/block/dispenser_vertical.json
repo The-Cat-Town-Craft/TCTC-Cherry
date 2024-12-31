@@ -3,7 +3,7 @@
   "textures": {
 		"particle": "minecraft:block/dispenser_side",
     "front": "minecraft:block/dispenser_front_vertical",
-		"back": "minecraft:block/dispenser_bottom",
+		"bottom": "minecraft:block/dispenser_bottom",
     "side": "minecraft:block/dispenser_top"
   }
 }

@@ -3,7 +3,7 @@
   "textures": {
 		"particle": "minecraft:block/dropper_side",
     "front": "minecraft:block/dropper_front_vertical",
-		"back": "minecraft:block/dropper_bottom",
+		"bottom": "minecraft:block/dropper_bottom",
     "side": "minecraft:block/dropper_top"
   }
 }
