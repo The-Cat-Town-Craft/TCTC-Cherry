@@ -1,14 +1,18 @@
 ﻿{
   "pack": {
-    "pack_format": 9,
-    "supported_formats":[9,1000],
+    "pack_format": 16,
+    "supported_formats":[16,64],
+  	"min_format":[16,0],
+		"max_format":[65,1024],
     "description":"\u00A7d基于 XeKr 原版红石显示1.17-V1附加"
   },
   "overlays":{
     "entries":[
       {
         "directory":"16_1000_new_content_compat",
-        "formats":[16,1000]
+        "formats":[16,64],
+        "min_format":[16,0],
+		    "max_format":[65,1024]
       },
       {
         "directory":"16_23_select_box_compat",
@@ -16,7 +20,9 @@
       },
       {
         "directory":"22_1000_breaking_compat",
-        "formats":[22,1000]
+        "formats":[22,64],
+        "min_format":[22,0],
+		    "max_format":[65,1024]
       },
       {
         "directory":"24_32_select_box_compat",
@@ -24,11 +30,15 @@
       },
       {
         "directory":"24w33a_next",
-        "formats":[35,1000]
+        "formats":[35,64],
+        "min_format":[35,0],
+		    "max_format":[65,1024]
       },
       {
         "directory":"24w45a_next",
-        "formats":[44,1000]
+        "formats":[44,64],
+        "min_format":[44,0],
+		    "max_format":[65,1024]
       }
     ]
   }
