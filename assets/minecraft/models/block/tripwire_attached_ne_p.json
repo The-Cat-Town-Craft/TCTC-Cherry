@@ -1,0 +1,84 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/tripwire",
+		"texture": "block/tripwire"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0.5, 0],
+			"to": [8.5, 0.5, 4],
+			"shade": false,
+			"light_emission": 11,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [16, 0, 0, 4], "rotation": 90, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [7.5, 0.5, 4],
+			"to": [8.5, 0.5, 7.75],
+			"shade": false,
+			"light_emission": 11,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [16, 0, 0, 4], "rotation": 90, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [7.75, 0.5, 8.25],
+			"to": [8.5, 0.5, 8.5],
+			"shade": false,
+			"light_emission": 11,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"up": {"uv": [0, 3, 16, 4], "texture": "#texture"},
+				"down": {"uv": [16, 3, 0, 4], "rotation": 180, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [7.5, 0.5, 7.75],
+			"to": [7.75, 0.5, 8.5],
+			"shade": false,
+			"light_emission": 11,
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 4]},
+			"faces": {
+				"up": {"uv": [0, 3, 16, 4], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [16, 3, 0, 4], "rotation": 90, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [7.75, 0.5, 7.75],
+			"to": [8.25, 0.5, 8.25],
+			"shade": false,
+			"light_emission": 11,
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 4]},
+			"faces": {
+				"up": {"uv": [7, 1, 9, 3], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [9, 1, 7, 3], "rotation": 90, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [8.25, 0.5, 7.5],
+			"to": [12, 0.5, 8.5],
+			"shade": false,
+			"light_emission": 11,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 4], "texture": "#texture"},
+				"down": {"uv": [0, 4, 16, 0], "texture": "#texture"}
+			}
+		},
+		{
+			"from": [12, 0.5, 7.5],
+			"to": [16, 0.5, 8.5],
+			"shade": false,
+			"light_emission": 11,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 4], "texture": "#texture"},
+				"down": {"uv": [0, 4, 16, 0], "texture": "#texture"}
+			}
+		}
+	]
+}

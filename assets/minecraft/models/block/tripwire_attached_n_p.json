@@ -1,0 +1,41 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/tripwire",
+		"texture": "block/tripwire"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0.5, 0],
+			"to": [8.5, 0.5, 4],
+			"shade": false,
+			"light_emission": 11,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [16, 0, 0, 4], "rotation": 90, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [7.5, 0.5, 4],
+			"to": [8.5, 0.5, 8],
+			"shade": false,
+			"light_emission": 11,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [16, 0, 0, 4], "rotation": 90, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [7.5, 0.5, 8],
+			"to": [8.5, 0.5, 12],
+			"shade": false,
+			"light_emission": 11,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#texture"},
+				"down": {"uv": [16, 0, 0, 4], "rotation": 90, "texture": "#texture"}
+			}
+		}
+	]
+}
