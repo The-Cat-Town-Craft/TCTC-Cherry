@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "minecraft:block/bee_nest_bottom_h2",
+    "front": "minecraft:block/bee_nest_front_h2",
+    "particle": "minecraft:block/bee_nest_side_h2",
+    "side": "minecraft:block/bee_nest_side_h2",
+    "top": "minecraft:block/bee_nest_top_h2"
+  }
+}
