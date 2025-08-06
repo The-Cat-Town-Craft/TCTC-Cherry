@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_record=true": {
+      "model": "minecraft:block/jukebox_hcd"
+    },
+    "has_record=false": {
+      "model": "minecraft:block/jukebox_ncd"
+    }
+  }
+}
