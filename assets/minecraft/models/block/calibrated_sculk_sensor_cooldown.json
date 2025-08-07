@@ -3,8 +3,8 @@
     "textures": {
         "tendrils": "block/sculk_sensor_tendril_cooldown",
 		"amethyst": "block/calibrated_sculk_sensor_amethyst_cooldown",
-        "bottom": "block/sculk_sensor_bottom_cd",
-		"side": "block/sculk_sensor_side_cd",
+        "bottom": "block/sculk_sensor_bottom_cooldown",
+		"side": "block/sculk_sensor_side_cooldown",
 		"calibrated_side": "block/calibrated_sculk_sensor_input_side_cooldown",
 		"top": "block/calibrated_sculk_sensor_top_cooldown"
     }
