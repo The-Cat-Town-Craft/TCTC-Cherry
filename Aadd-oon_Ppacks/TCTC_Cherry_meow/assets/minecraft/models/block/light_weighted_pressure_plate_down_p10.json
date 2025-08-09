@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/pressure_plate_down_LH",
-  "textures": {
-    "texture": "minecraft:block/gold_block",
-    "number": "minecraft:block/down_power10"
-  }
-}

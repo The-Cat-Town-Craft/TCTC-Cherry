@@ -39,12 +39,6 @@
         "formats":[35,64],
         "min_format":[35,0],
 		    "max_format":[65,1000]
-      },
-      {
-        "directory":"24w45a_next",
-        "formats":[44,64],
-        "min_format":[44,0],
-		    "max_format":[65,1000]
       }
     ]
   }
