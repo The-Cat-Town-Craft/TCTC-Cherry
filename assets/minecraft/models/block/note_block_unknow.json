@@ -1,6 +1,6 @@
 {
     "parent": "block/note_plus",
     "textures": {
-        "texture": "block/note_block_creeper"
+        "texture": "block/note_block_unknow"
     }
 }

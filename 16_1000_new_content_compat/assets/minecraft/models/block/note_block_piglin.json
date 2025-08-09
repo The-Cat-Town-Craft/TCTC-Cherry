@@ -1,6 +1,6 @@
 {
-    "parent": "block/note_surface",
+    "parent": "block/note_plus",
     "textures": {
-        "all": "block/note_block_piglin"
+        "texture": "block/note_block_piglin"
     }
 }
