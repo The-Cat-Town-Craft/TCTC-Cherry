@@ -1,10 +1,10 @@
-﻿{
+{
   "pack": {
     "pack_format": 16,
     "supported_formats":[16,64],
   	"min_format":[16,0],
-		"max_format":[65,1000],
-    "description":"\u00A7d基于 XeKr 原版红石显示1.17-V1附加"
+		"max_format":[68,1000],
+    "description":"\u00A7dTCTC Cherry by Surisen"
   },
   "overlays":{
     "entries":[
@@ -12,7 +12,7 @@
         "directory":"16_1000_new_content_compat",
         "formats":[16,64],
         "min_format":[16,0],
-		    "max_format":[65,1000]
+		    "max_format":[68,1000]
       },
       {
         "directory":"16_23_select_box_compat",
@@ -22,7 +22,7 @@
         "directory":"22_1000_breaking_compat",
         "formats":[22,64],
         "min_format":[22,0],
-		    "max_format":[65,1000]
+		    "max_format":[68,1000]
       },
       {
         "directory":"24_32_select_box_compat",
@@ -32,13 +32,13 @@
         "directory":"28_1000_breaking_compat",
         "formats":[28,64],
         "min_format":[28,0],
-		    "max_format":[65,1000]
+		    "max_format":[68,1000]
       },
       {
         "directory":"24w33a_next",
         "formats":[35,64],
         "min_format":[35,0],
-		    "max_format":[65,1000]
+		    "max_format":[68,1000]
       }
     ]
   }
