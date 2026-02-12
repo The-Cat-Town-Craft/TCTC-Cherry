@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_emissive_ore",
+  "textures": {
+    "ore": "minecraft:block/redstone_ore_ore",
+	"stone": "minecraft:block/redstone_ore_stone"
+  }
+}

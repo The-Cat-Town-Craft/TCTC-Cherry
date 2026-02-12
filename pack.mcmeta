@@ -39,6 +39,12 @@
         "formats":[35,64],
         "min_format":[35,0],
 		    "max_format":[1000,1000]
+      },
+      {
+        "directory":"26.1_snapshot_7_next",
+        "formats":[81,1000],
+        "min_format":[81,0],
+		    "max_format":[1000,1000]
       }
     ]
   }
