@@ -18,10 +18,10 @@
 			}
 		},
 		{
-			"from": [6.15, 0.275, 6.15],
-			"to": [10.15, 0.275, 10.15],
+			"from": [6.1, 0.275, 6.1],
+			"to": [10.1, 0.275, 10.1],
 			"shade": false,
-			"light_emission": 15,
+			"light_emission": 11,
 			"faces": {
 				"up": {"uv": [0, 0, 16, 16], "texture": "#shadow"}
 			}
