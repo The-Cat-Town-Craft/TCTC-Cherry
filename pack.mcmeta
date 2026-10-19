@@ -1,50 +1,54 @@
 {
   "pack": {
     "pack_format": 16,
-    "supported_formats":[16,64],
-  	"min_format":[16,0],
-		"max_format":[1000,1000],
-    "description":"\u00A7dTCTC Cherry by Surisen"
+    "supported_formats": [16, 64],
+    "min_format": [16, 0],
+    "max_format": [1000, 1000],
+    "description": "\u00A7dTCTC Cherry by Surisen"
   },
-  "overlays":{
-    "entries":[
+  "overlays": {
+    "entries": [
       {
-        "directory":"16_1000_new_content_compat",
-        "formats":[16,64],
-        "min_format":[16,0],
-		    "max_format":[1000,1000]
+        "directory": "ltsc_16_new_content_compat",
+        "formats": [16, 64],
+        "min_format": [16, 0],
+        "max_format": [1000, 1000]
       },
       {
-        "directory":"16_23_select_box_compat",
-        "formats":[16,23]
+        "directory": "eol_16_23_select_box_compat",
+        "formats": [16, 23],
+        "min_format": [16, 0],
+        "max_format": [23, 1000]
       },
       {
-        "directory":"22_1000_breaking_compat",
-        "formats":[22,64],
-        "min_format":[22,0],
-		    "max_format":[1000,1000]
+        "directory": "ltsc_22_breaking_compat",
+        "formats": [22, 64],
+        "min_format": [22, 0],
+        "max_format": [1000, 1000]
       },
       {
-        "directory":"24_32_select_box_compat",
-        "formats":[24,32]
+        "directory": "eol_24_32_select_box_compat",
+        "formats": [24, 32],
+        "min_format": [24, 0],
+        "max_format": [32, 1000]
       },
       {
-        "directory":"28_1000_breaking_compat",
-        "formats":[28,64],
-        "min_format":[28,0],
-		    "max_format":[1000,1000]
+        "directory": "ltsc_28_breaking_compat",
+        "formats": [28, 64],
+        "min_format": [28, 0],
+        "max_format": [1000, 1000]
       },
       {
-        "directory":"24w33a_next",
-        "formats":[35,64],
-        "min_format":[35,0],
-		    "max_format":[1000,1000]
+        "directory": "ltsc_35_compat",
+        "formats": [35, 64],
+        "min_format": [35, 0],
+        "max_format": [1000, 1000]
       },
       {
-        "directory":"26.1_snapshot_7_next",
-        "formats":[81,1000],
-        "min_format":[81,0],
-		    "max_format":[1000,1000]
+        "directory": "ltsc_81_compat",
+        "formats": [81, 1000],
+        "min_format": [81, 0],
+        "max_format": [1000, 1000]
       }
     ]
   }
